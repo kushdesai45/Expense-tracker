@@ -1,0 +1,27 @@
+.cardContainer{
+    box-shadow: 0px 4px 4px 0px #00000040;
+    width: 200px;
+    height: 50%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.incomeBtn{
+    background: linear-gradient(90deg, #B5DC52 0%, #89E148 100%);
+    border-radius: 15px;
+    color: white;
+    border: none;
+    height: 30px;
+    margin-top: 15px;
+}
+
+.expenseBtn{
+    background: linear-gradient(90deg, #FF9595 0%, #FF4747 80%, #FF3838 100%);
+    border-radius: 15px;
+    color: white;
+    border: none;
+    height: 30px;
+    margin-top: 15px;
+}
